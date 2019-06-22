@@ -9,7 +9,7 @@ import java.util.Properties;
 
 import restaurant.core.Customer;
 import restaurant.util.PasswordUtils;
-
+//DAO file of Customer
 public class CustomerDAO {
 
 	private Connection myConn;
